@@ -1,4 +1,5 @@
-![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Piyush-Kumar62/Piyush-Kumar/assets/156589672/3eb6b617-a20c-4dc8-8943-b8e94fcd9087)
+
+![my banner](https://github.com/Piyush-Kumar62/Piyush-Kumar62/assets/156589672/441af28d-eef6-41dc-8afc-b6f2d0a2a131)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piyush+Kumar!;" />
