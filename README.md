@@ -26,6 +26,9 @@ Skilled in building **scalable, maintainable, high-performance applications** an
 Actively seeking opportunities in **full-stack development, cloud-native apps, and innovative software solutions**.
 
 <hr>
+<img align="right" alt="Coding" width="250" height="300"
+     src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="object-fit:cover; border-radius:8px;">
+
 
 ### 🚀 About Me
 - 🌍 Based in **India**  
