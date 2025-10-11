@@ -95,13 +95,22 @@ Actively seeking opportunities in **full-stack development, cloud-native apps, a
     <img width="40%" src="https://github-profile-trophy.vercel.app/?username=Piyush-Kumar62&theme=tokyonight&no-frame=false&border_color=FFD700&margin-w=10&row=2&column=4" alt="GitHub trophies for Piyush-Kumar62">
   </a>
 </p>
+<hr>
+<h3 align="left">📊 Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/Piyush-Kumar62">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush-Kumar62&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush-Kumar62&theme=2077" height="180em" />
+  </a>
+</div>
 
 <hr>
 
 ### 🌱 Hacktoberfest & Open Source Journey
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69134468/193397822-bce9f8b1-2c3f-4744-842c-5fa6a9d5f8e3.gif" width="600" />
-</p>
 
 - 🧩 Contributing to **open-source web and cloud projects**  
 - 💬 Collaborating globally to **build impactful software**  
