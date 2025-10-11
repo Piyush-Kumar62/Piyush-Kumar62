@@ -26,7 +26,7 @@ Skilled in building **scalable, maintainable, high-performance applications** an
 Actively seeking opportunities in **full-stack development, cloud-native apps, and innovative software solutions**.
 
 <hr>
-<img align="right" alt="Coding" width="250" height="250"
+<img align="right" alt="Coding" width="250" height="200"
      src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="object-fit:cover; border-radius:8px;">
 
 
@@ -66,9 +66,9 @@ Actively seeking opportunities in **full-stack development, cloud-native apps, a
 - 💻 Developing **Smart Fitness App** – Angular & Spring Boot full-stack project  
 - 🚀 Building **AI-powered Web Applications** using modern frameworks  
 
-<hr>
+<!--<hr>
 
-<!--### 📂 Projects
+### 📂 Projects
 | Project | Tech Stack | Link |
 |---------|------------|------|
 | Smart Fitness App | Angular, Spring Boot, MySQL | [GitHub](#) |
