@@ -83,7 +83,7 @@ Actively seeking opportunities in **full-stack development, cloud-native apps, a
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar62&show_icons=true&theme=tokyonight&hide_border=false&border_color=FFD700&rank_icon=github&count_private=true" alt="Piyush's GitHub Stats" />
   </a>
   <a href="https://github.com/Piyush-Kumar62">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-Kumar62&theme=tokyonight&hide_border=false&border_color=FFD700" alt="Piyush's GitHub Streak" />
+    <img width="40%" src="https://github-readme-streak-stats-eight.vercel.app?user=Piyush-Kumar62&theme=tokyonight&hide_border=false&border_color=FFD700" alt="Piyush's GitHub Streak" />
   </a>
 </p>
 
@@ -92,9 +92,10 @@ Actively seeking opportunities in **full-stack development, cloud-native apps, a
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar62&layout=compact&theme=tokyonight&hide_border=false&border_color=FFD700&langs_count=8" alt="Top Languages" />
   </a>
   <a href="https://github.com/Piyush-Kumar62" target="_blank" rel="noopener noreferrer">
-    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=Piyush-Kumar62&theme=tokyonight&no-frame=false&border_color=FFD700&margin-w=10&row=2&column=4" alt="GitHub trophies for Piyush-Kumar62">
+    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=Piyush-Kumar62&theme=tokyonight&no-frame=false&border_color=FFD700&margin-w=10&row=2&column=4" alt="GitHub trophies for Piyush-Kumar62" />
   </a>
 </p>
+
 <hr>
 <h3 align="left">📊 Statistics</h3>
 
